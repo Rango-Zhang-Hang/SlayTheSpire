@@ -1,7 +1,7 @@
 # SlayTheSpire
 Mods for Slay The Spire in Steam
 ## Version Tracks
-* [Version 0](### 0)
+* [Version 0](###0)
 ### 0
 0.1: create a test mod
 
