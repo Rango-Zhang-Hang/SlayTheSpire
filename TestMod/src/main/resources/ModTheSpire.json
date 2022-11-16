@@ -1,0 +1,9 @@
+{
+  "modid": "TestMod",
+  "name": "Test Mod",
+  "author_list": "Rango",
+  "description": "Testing mod, for character and its deck building. If possible, cololess deck can have updates with stories",
+  "version": "0.1",
+  "system": "11-16-22",
+  "dependencies": ["basemod"]
+}
